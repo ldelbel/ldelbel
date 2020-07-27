@@ -50,6 +50,6 @@ At the moment I'm preparing myself to offer the best version of me to the Job Ma
 
 Feel free to see my projects!
 
-<h2 align=right>Dare to be you </h2>
+<h2 align=right>Dare to be yourself</h2>
 
 
