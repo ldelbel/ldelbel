@@ -22,7 +22,7 @@
 ### 📚&nbsp;&nbsp;&nbsp;Currently learning:
 <img alt="Rails" title="Rails" src="https://user-images.githubusercontent.com/59986562/88586259-8b26c880-d02a-11ea-93e7-57e6fad8235b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Webpack" title="Webpack" src="https://user-images.githubusercontent.com/59986562/88586053-469b2d00-d02a-11ea-9e48-4ca613ced85f.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img width=330px align=right  src=./assets/image.svg/>
+<img width=330px align=right  src=https://github.com/ldelbel/ldelbel/blob/master/assets/image.svg>
 <div>
   
 ## About me
