@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there! 👋 I'm Lucas, a Full Stack Developer</h1>
 
 <p align='center'>
-  I'm based in [Caraguatatuba Brazil](https://goo.gl/maps/pWLMuKTNMZ2rMUDv5)
+  I'm based in Caraguatatuba, Brazil
 </p>
 <p align='center'>
   <a href="https://twitter.com/delbel_lucas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
