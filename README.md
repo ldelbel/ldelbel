@@ -1,9 +1,10 @@
 
 <h1 align='center'> Hi there! 👋 I'm Lucas, a Full Stack Developer</h1>
 
-<p align='center'>
-  I'm based in Caraguatatuba, Brazil
-</p>
+<div align='center'> 
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm based in [Caraguatatuba, Brazil](https://goo.gl/maps/3H6et8vgeiF5eJry7) <img alt="Brazil" title="Brazil" src="https://user-images.githubusercontent.com/59986562/88660817-d7671c80-d0ad-11ea-955a-8d37daf08d30.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 <p align='center'>
   <a href="https://twitter.com/delbel_lucas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucasdelbel/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
