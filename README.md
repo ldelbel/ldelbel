@@ -29,7 +29,7 @@
 
 - Studying Software Development at [Microverse School](https://www.microverse.org/) <img alt="Microverse" title="Microverse" src="https://user-images.githubusercontent.com/59986562/88595658-ced4fe80-d039-11ea-97fd-f6351b7e8d00.png" height="28">&nbsp;&nbsp;&nbsp;&nbsp; 
 - Studied Industrial Engineering at [UNIFEI](https://unifei.edu.br/) 📖
-- Entrepeneur ([Previous Business](https://www.instagram.com/fitwaydoces/)) 📈
+- Entrepreneur ([Previous Business](https://www.instagram.com/fitwaydoces/)) 📈
 - Business Enthusiast ([Consulting Experience](https://www.facebook.com/itajubaconsultingclub/) & [Startup Weekend](http://communities.techstars.com/brazil/lorena/startup-weekend/10011))
 - Calisthenics Practitioner ([Freeletics](https://www.freeletics.com/en/)) 💪
 - Spiritualist Musician 🎸
