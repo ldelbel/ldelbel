@@ -28,7 +28,9 @@ I'm based in [Caraguatatuba, Brazil](https://goo.gl/maps/3H6et8vgeiF5eJry7) <img
 <img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;Dev Tools&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Ubuntu" title="Ubuntu" src="https://user-images.githubusercontent.com/59986562/95896083-1da15300-0d62-11eb-95bd-c440fdade86c.jpg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📚&nbsp;&nbsp;&nbsp;&nbsp;Experienced in<br>
 
@@ -50,7 +52,7 @@ I'm based in [Caraguatatuba, Brazil](https://goo.gl/maps/3H6et8vgeiF5eJry7) <img
 
 <img alt="Docker" title="Docker" src="https://user-images.githubusercontent.com/59986562/95883298-263d5d80-0d51-11eb-820d-be4577a1c030.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Kubernetes" title="Kubernetes" src="https://user-images.githubusercontent.com/59986562/95883278-23426d00-0d51-11eb-864c-3da2669e293d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Golang" title="Golang" src="https://user-images.githubusercontent.com/59986562/95883312-289fb780-0d51-11eb-858b-1bb0f63a4b6e.jpg" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Golang" title="Golang" src="https://user-images.githubusercontent.com/59986562/95896132-2b56d880-0d62-11eb-840b-721ab0968802.png" height="32">&nbsp;&nbsp;&nbsp;&nbsp;
   
 <img width=330px align=right  src=https://github.com/ldelbel/ldelbel/blob/master/assets/image.svg>
 <div> 
