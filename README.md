@@ -76,7 +76,7 @@ I'm based in [Caraguatatuba, Brazil](https://goo.gl/maps/3H6et8vgeiF5eJry7) <img
 
 I believe that happy people can build a new, more beautiful and greater world for everyone, and that we have the responsibility to do so.
 
-I expect to find an opportunity to work with energized, respectful, joyful and responsible people to build amazing solutions to a wide range of customers. I'll put everything I have on the table, and I get excited to think about everything I can learn and contribute to my next working environment.
+I hope to find an opportunity to work with energized, respectful, joyful and responsible people to build amazing solutions to a wide range of customers. I bring everything I have to the table, and I'm excited to think about everything I can learn and contribute to my next working environment.
 
 At the moment I'm preparing myself to offer the best version of me to the Job Market.
 
