@@ -66,6 +66,7 @@ I'm based in [Caraguatatuba, Brazil](https://goo.gl/maps/3H6et8vgeiF5eJry7) <img
 - Business Enthusiast ([Consulting Experience](https://www.facebook.com/itajubaconsultingclub/) & [Startup Weekend](http://communities.techstars.com/brazil/lorena/startup-weekend/10011))
 - Calisthenics Practitioner ([Freeletics](https://www.freeletics.com/en/)) 💪
 - Spiritualist Musician 🎸
+- Chess Player :chess_pawn:
 - Gamer 🎮
 - Available for new opportunities 
 
