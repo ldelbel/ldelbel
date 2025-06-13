@@ -1,5 +1,5 @@
 
-<h1 align='center'> Hi there! 👋 I'm Lucas, a Front-end focused Full-stack Developer</h1>
+<h1 align='center'> Hey! I'm Lucas, a Full Stack Developer</h1>
 
 <div align='center'> 
   
